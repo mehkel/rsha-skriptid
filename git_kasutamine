@@ -1,0 +1,10 @@
+Põhikasutamine:
+
+a) Pane fail jälgimisele
+git add failname
+
+b) Lisa kirjelduse muudatuse
+git commit -m "Kirjeldus"
+
+c) Lisa kaugrepositoorium
+git push -uf origin master
